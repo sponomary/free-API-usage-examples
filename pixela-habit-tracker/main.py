@@ -3,8 +3,8 @@
 import requests
 from datetime import datetime
 
-USERNAME = "alexpo3"  # to reach created account: https://pixe.la/@{your_username}
-TOKEN = "your_secret_password"
+USERNAME = "{your_username}"  # to reach created account: https://pixe.la/@{your_username}
+TOKEN = "{your_secret_password}"
 GRAPH_ID_1 = "walking"  # must follow rule: [a-z][a-z0-9-]{1,16}
 GRAPH_ID_2 = "reading"
 
